@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    background: linear-gradient(90deg, #ff00ff, #00ffff);
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 24px;
+    text-shadow: 3px 3px 0px #000;
+    margin: 20px;
+}
+
+#map {
+    height: 600px;
+    width: 90%;
+    margin: auto;
+    border: 5px solid #ffcc00;
+    box-shadow: 10px 10px 0px #000;
+    position: relative;
+
+}
+
+
+
+/* Styling the Leaflet controls */
+.leaflet-control-zoom-in, 
+.leaflet-control-zoom-out {
+    background-color: #ffcc00 !important;
+    color: #000 !important;
+    border: 2px solid #000 !important;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.leaflet-popup-content {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 12px;
+    text-align: center;
+}
+
+.leaflet-marker-icon {
+    filter: hue-rotate(90deg) brightness(1.2);
+}
+
+.leaflet-popup-tip {
+    background: #ffcc00;
+}
