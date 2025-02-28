@@ -25,6 +25,10 @@ h1 {
 
 }
 
+.leaflet-container {
+            filter: hue-rotate(180deg) contrast(1.2) saturate(1.5);
+        }
+
 
 
 /* Styling the Leaflet controls */
@@ -43,7 +47,7 @@ h1 {
 }
 
 .leaflet-marker-icon {
-    filter: hue-rotate(90deg) brightness(1.2);
+    filter: hue-rotate(180deg) brightness(1.2);
 }
 
 .leaflet-popup-tip {

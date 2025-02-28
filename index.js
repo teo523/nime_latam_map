@@ -3,7 +3,14 @@
 // <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
 // Create a map and set its initial view to a world overview
-var map = L.map('map').setView([20, 0], 2);
+var map = L.map('map',{
+                center: [20, 10],
+                zoom: 1.5,
+                
+                rotate: true,
+
+       
+                }).setView([20, 0], 2);
 
 
 // Add a tile layer (OpenStreetMap tiles)
@@ -36,3 +43,6 @@ locations.forEach(location => {
         this.closePopup();
     });
 });
+
+map.setBearing(180)
+
