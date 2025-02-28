@@ -20,16 +20,26 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Define points of interest
 var locations = [
-    { name: "Teo Dannemann", coords: [40.7128, -74.0060], info: "Hacking musical instrument",url:"https://teodannemann.wordpress.com/" },
-    { name: "Juan Martinez", coords: [48.8566, 2.3522], info: "Soma design",url:"https://teodannemann.wordpress.com/" },
-    { name: "Patricia Cadavid", coords: [35.6895, 139.6917], info: "Kiphu and ancestral musical instruments",url:"https://teodannemann.wordpress.com/" },
-    { name: "Ximena Alarcon", coords: [-33.8688, 151.2093], info: "Virtual collaboration",url:"https://teodannemann.wordpress.com/" }
+    { name: "Teo Dannemann", coords: [51.509865, -0.118092], info: "Hacking musical instrument",url:"https://teodannemann.wordpress.com/" ,photo: 'teodannemann.png'},
+    { name: "Byron Remache", coords: [-0.22000, -78.51250], info: "Musical Haptics",url:"https://www.researchgate.net/profile/Byron-Remache-Vinueza" ,photo: 'byronremache.png'},
+    { name: "Alvaro Lopez", coords: [33.95335, -117.39616], info: "Algorithmuc Generative Music",url:"https://teodannemann.wordpress.com/",photo: 'alvarolopez.jpeg' },
+    { name: "Jimena Arruti", coords: [-34.901112, -56.164532], info: "Music Composer",url:"https://www.linkedin.com/in/jimena-arruti/",photo: 'jimenaarruti.jpeg' },
+    { name: "Patricia Cadavid", coords: [51.454514, -2.587910], info: "Decolonial Aesthetics",url:"https://www.patriciacadavid.net/",photo: 'patriciacadavid.jpg' },
+    { name: "Juan Pablo Martinez", coords: [52.950001, -1.150000], info: "Instruments Design",url:"https://sites.google.com/view/pszjm3/",photo: 'juanpablomartinez.jpg' },
+    { name: "Joao Tragtenberg", coords: [-8.050000, -34.900002], info: "Participatory design of instruments",url:"https://www.linkedin.com/in/jo%C3%A3o-tragtenberg-23240859/?originalSubdomain=br",photo: 'joaotragtenberg.jpeg' },
+
 ];
 
 // Add markers to the map with popups
 locations.forEach(location => {
-    var marker = L.marker(location.coords).addTo(map);
+    var greenIcon = L.icon({
+    iconUrl: location.photo,
+
+    iconSize:     [30,30], // size of the icon
+});
+    var marker = L.marker(location.coords,{icon: greenIcon}).addTo(map);
     marker.bindPopup(`<b>${location.name}</b><br>${location.info}`);
+
     
     // Show popup on hover
     marker.on('mouseover', function (e) {
