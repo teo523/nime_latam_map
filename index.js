@@ -30,6 +30,12 @@ var locations = [
     { name: "Fabian Sguiglia", coords: [-34.603722,-58.381592], info: "Interactive audiovisual installations",url:"https://www.sguiglia.com.ar/",photo: 'fabiansguiglia.jpeg' },
     { name: "Juan Ramos", coords: [-34.73722,-58.381592], info: "Digital Musical Instruments design",url:"https://bandoneon.ar/",photo: 'juanramos.png' },
     { name: "Ximena Alarcón", coords: [6.230833, -75.590553], info: "Relational Listening Interfaces",url:"https://www.ximenaalarcon.net/",photo: 'ximenaalarcon.jpeg' },
+    { name: "María José Rios", coords: [-33.447487, -70.673676], info: "Audiovisual Textile Interfaces",url:"https://vestibles.cl/",photo: 'mariajoserios.jpg' },
+    { name: "Tiago Brizolara", coords: [-27.026, -48.651], info: "Body Expressivity",url:"https://www.instagram.com/tiago.brizolara",photo: 'tiagobrizolara.jpg' },
+    { name: "Edu Meneses", coords: [45.508888, -73.561668], info: "Digital Luthier",url:"https://www.edumeneses.com/",photo: 'edumeneses.jpeg' },
+    { name: "Gustavo Guzmán", coords: [-33.947487, -70.673676], info: "Gestures in music interaction",url:"https://teo523.github.io/nime_latam_map/",photo: 'gustavoguzman.png' },
+
+
 
 ];
 
