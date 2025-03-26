@@ -26,7 +26,7 @@ var locations = [
     { name: "Jimena Arruti", coords: [-34.901112, -56.164532], info: "Music Composer",url:"https://www.linkedin.com/in/jimena-arruti/",photo: 'jimenaarruti.jpeg' },
     { name: "Patricia Cadavid", coords: [51.454514, -2.587910], info: "Decolonial Aesthetics",url:"https://www.patriciacadavid.net/",photo: 'patriciacadavid.jpg' },
     { name: "Juan Pablo Martinez", coords: [52.950001, -1.150000], info: "Instruments Design",url:"https://sites.google.com/view/pszjm3/",photo: 'juanpablomartinez.jpg' },
-    { name: "Joao Tragtenberg", coords: [-8.050000, -34.900002], info: "Participatory design of instruments",url:"https://www.linkedin.com/in/jo%C3%A3o-tragtenberg-23240859/?originalSubdomain=br",photo: 'joaotragtenberg.jpeg' },
+    { name: "Joao Tragtenberg", coords: [-8.050000, -34.900002], info: "Participatory design of instruments",url:"https://www.instagram.com/jtragtenberg",photo: 'joaotragtenberg.jpeg' },
     { name: "Fabian Sguiglia", coords: [-34.603722,-58.381592], info: "Interactive audiovisual installations",url:"https://www.sguiglia.com.ar/",photo: 'fabiansguiglia.jpeg' },
     { name: "Juan Ramos", coords: [-34.73722,-58.381592], info: "Digital Musical Instruments design",url:"https://bandoneon.ar/",photo: 'juanramos.png' },
     { name: "Ximena Alarcón", coords: [6.230833, -75.590553], info: "Relational Listening Interfaces",url:"https://www.ximenaalarcon.net/",photo: 'ximenaalarcon.jpeg' },
