@@ -34,6 +34,12 @@ var locations = [
     { name: "Edu Meneses", coords: [45.508888, -73.561668], info: "Digital Luthier",url:"https://www.edumeneses.com/",photo: 'edumeneses.jpeg' },
     { name: "Gustavo Guzmán", coords: [-33.947487, -70.673676], info: "Gestures in music interaction",url:"https://teo523.github.io/nime_latam_map/",photo: 'gustavoguzman.png' },
     { name: "María José Rios", coords: [-33.447487, -70.673676], info: "Audiovisual Textile Interfaces",url:"https://vestibles.cl/",photo: 'mariajoserios.jpg' },
+    { name: "Luam Clarindo", coords: [-25.441105, -49.276855], info: "Free improvisation",url:"https://luamclarindo.com/",photo: 'luamclarindo.png' },
+    { name: "Cristohper Ramos Flores", coords: [19.7028,-101.1920], info: "Hyper-instruments",url:"https://www.kuturani.com.mx/",photo: 'cristohperramos.png' },
+    { name: "Vitor Pinheiro", coords: [-25.941105, -49.276855], info: "Immersive audio",url:"https://www.instagram.com/vitorpinheiroprod/",photo: 'vitorpinheiro.jpeg' },
+    { name: "Daniel Escobar Vázquez", coords: [3.420556, -76.522224], info: "Interactive Audiovisual Installations",url:"https://www.danielescobar.co/",photo: 'danielescobar.png' },
+    { name: "Flavio Luiz Schiavoni", coords: [-21.13583, -44.26000], info: "Music Computing",url:"https://alice.ufsj.edu.br/",photo: 'flavioluiz.jpeg' },
+
 
 
 
