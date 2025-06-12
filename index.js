@@ -42,7 +42,7 @@ var locations = [
     { name: "Isabela Corintha Almeida", coords: [-8.050000, -34.900002], info: "Music Improvisation and Machine Learning",url:"https://scholar.google.com/citations?user=gdej3wIAAAAJ&hl=en/",photo: 'isabelacorintha.jpeg' },
     { name: "Leandro Souza", coords: [-8.150000, -34.900002], info: "Experimental Digital Technologies",url:"https://teo523.github.io/nime_latam_map/",photo: 'gustavoguzman.png' },
     { name: "Cristiano Figueiro", coords: [-12.974722,-38.476665], info: "Experimental Digital Lutherie",url:"https://teo523.github.io/nime_latam_map/",photo: 'gustavoguzman.png' },
-    { name: "Rodrigo Diaz", coords: [ -10.783,-66.333], info: "Physical Modelling and AI",url:"https://rodrigodzf.com/",photo: 'rodrigodiaz.png' },
+    { name: "Rodrigo Diaz", coords: [ 52.517,13.400], info: "Physical Modelling and AI",url:"https://rodrigodzf.com/",photo: 'rodrigodiaz.png' },
     { name: "Felipe Otondo", coords: [-39.819588,-73.245209], info: "Immersive Audio",url:"https://otondo.net/",photo: 'felipeotondo.jpeg' }
 
 
