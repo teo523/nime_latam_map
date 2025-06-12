@@ -39,6 +39,14 @@ var locations = [
     { name: "Vitor Pinheiro", coords: [-25.941105, -49.276855], info: "Immersive audio",url:"https://www.instagram.com/vitorpinheiroprod/",photo: 'vitorpinheiro.jpeg' },
     { name: "Daniel Escobar Vázquez", coords: [3.420556, -76.522224], info: "Interactive Audiovisual Installations",url:"https://www.danielescobar.co/",photo: 'danielescobar.png' },
     { name: "Flavio Luiz Schiavoni", coords: [-21.13583, -44.26000], info: "Music Computing",url:"https://alice.ufsj.edu.br/",photo: 'flavioluiz.jpeg' },
+    { name: "Isabela Corintha Almeida", coords: [-8.050000, -34.900002], info: "Music Improvisation and Machine Learning",url:"https://scholar.google.com/citations?user=gdej3wIAAAAJ&hl=en/",photo: 'isabelacorintha.jpeg' },
+    { name: "Leandro Souza", coords: [-8.150000, -34.900002], info: "Experimental Digital Technologies",url:"https://teo523.github.io/nime_latam_map/",photo: 'gustavoguzman.png' },
+    { name: "Cristiano Figueiro", coords: [-12.974722,-38.476665], info: "Experimental Digital Lutherie",url:"https://teo523.github.io/nime_latam_map/",photo: 'gustavoguzman.png' },
+    { name: "Rodrigo Diaz", coords: [ -10.783,-66.333], info: "Physical Modelling and AI",url:"https://rodrigodzf.com/",photo: 'rodrigodiaz.png' },
+    { name: "Felipe Otondo", coords: [-39.819588,-73.245209], info: "Immersive Audio",url:"https://otondo.net/",photo: 'felipeotondo.jpeg' }
+
+
+
 
 
 
