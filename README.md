@@ -2,9 +2,9 @@
 
 ## 🤝 Contribuir al Proyecto NIME LATAM Map / Contribuir para o Projeto NIME LATAM Map
 
-Gracias por tu interés en contribuir a este proyecto. Aquí te explicamos cómo puedes agregar o editar tus datos en el Mapa de NIMErs Latinoamericanos.
+🇪🇸 Gracias por tu interés en contribuir a este proyecto. Aquí te explicamos cómo puedes agregar o editar tus datos en el Mapa de NIMErs Latinoamericanos.
 
-Obrigado pelo seu interesse em contribuir com este projeto. Aqui explicamos como você pode adicionar ou editar seus dados no Mapa de NIMErs Latino-americanos.
+🇧🇷 Obrigado pelo seu interesse em contribuir com este projeto. Aqui explicamos como você pode adicionar ou editar seus dados no Mapa de NIMErs Latino-americanos.
 
 ---
 
