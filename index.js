@@ -47,7 +47,14 @@ var locations = [
     { name: "José María López Kieffer", coords: [-32.889722222222, -68.8444], info: "Data Sonification",url:"https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-l%C3%B3pez-kieffer-8995382b5/?originalSubdomain=ar",photo: 'josemarialopez.jpg' },
     { name: "Adriana María Gutiérrez Grisales", coords: [6.2447472222222, -75.574827777778], info: "Data Sonification",url:"https://www.instagram.com/arideejay/",photo: 'adrianagutierrez.jpeg' },
     { name: "Rafaele Andrade", coords: [51.9275, 4.18027], info: "Instruments Design",url:"https://www.rafaele-andrade.com",photo: 'rafaeleandrade.jpg' },
-    { name: "Andre Mestre", coords: [60.3925, 5.323], info: "New Musical Interfaces",url:"https://andremestre.info/",photo: 'andremestre.jpeg' }
+    { name: "Andre Mestre", coords: [60.3925, 5.323], info: "New Musical Interfaces",url:"https://andremestre.info/",photo: 'andremestre.jpeg' },
+    { name: "Marianne Teixidó", coords: [19.419444, -99.14], info: "Feminist HCI",url:"https://marianneteixido.github.io/",photo: 'marianneteixido.jpeg' },
+    { name: "Filipe Calegario", coords: [-8.0538, -34.88083], info: "DMI Design",url:"https://filipecalegario.wordpress.com",photo: 'filipecalegario.jpeg' },
+    { name: "Marco Valdivia", coords: [-13.3103, -72.12], info: "Tecnologías Libres",url:"https://asimtria.org",photo: 'gustavoguzman.png' }
+
+
+  
+
 
 
 
